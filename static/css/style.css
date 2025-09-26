@@ -1,0 +1,24 @@
+/* Making the paragraph text color dark blue and the size 18 */
+p  {color: darkblue;
+    font-size: 18px;}
+
+h2 {color: #415ace;
+    font-weight: bold;}
+
+table, td, th {border-style: solid;
+border-width: 3px;
+border-color: #415ace;
+border-collapse: collapse;}
+
+/* Added an ID to the 3rd paragraph so its a different blue and italics */
+#bio {color: #353535;
+    font-style: italic;}
+
+/* Adding class code so when added to about me HTML it'll change the appearance */
+.shadow {
+  box-shadow: 2px 2px 5px gray;
+  padding: 5px;}
+
+.logo {
+  width: 221px;
+  height: 92px;}
