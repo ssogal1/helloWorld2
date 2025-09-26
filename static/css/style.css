@@ -10,7 +10,7 @@ border-width: 3px;
 border-color: #415ace;
 border-collapse: collapse;}
 
-/* Added an ID to the 3rd paragraph so its a different blue and italics */
+/* Added an ID to the 3rd paragraph so its a different gray and italics */
 #bio {color: #353535;
     font-style: italic;}
 
