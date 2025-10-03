@@ -19,5 +19,9 @@ def about():
 def about_css():
     return render_template('about-css.html')
 
+@app.route('/greetings')
+def greetings():
+    return render_template('greetings.html')
+
 if __name__ == '__main__':
     app.run()
