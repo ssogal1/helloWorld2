@@ -12,7 +12,7 @@ document
 //Alert with Hello, NAME!
 function helloName() {
     let textInput = document.getElementById("nameInput");
-    alert("Hello " + textInput.value + "!");
+    alert("Hello, " + textInput.value + "!");
 }
 
 //My favorite foods list loop
